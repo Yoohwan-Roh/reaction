@@ -31,7 +31,7 @@ main { width: 740px; float: left; }
 #footer { clear: both; padding: 20px 0; text-align: center;
           background: #061f1f; color: #fff; }
 /* 600-1023 */
-@media all and ( max-width: 1023px ) {
+@media all and ( max-width: 1300px ) {
   #wrap { width: 100%; margin: 0; border: 0; }
   main { width: auto; float: none; padding: 0 30px; }
   #sidebar { width: auto; float: none; }
